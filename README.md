@@ -37,10 +37,11 @@ No server setup required ✅
 On Windows/Mac → double click index.html
 
 Screenshots of the application
-<img width="1912" height="959" alt="image" src="https://github.com/user-attachments/assets/b4c496d5-dd26-425c-904a-14a9c0530007" />
-<img width="342" height="488" alt="image" src="https://github.com/user-attachments/assets/b73370dd-b351-483a-9804-8f444f7e4909" />
-<img width="341" height="487" alt="image" src="https://github.com/user-attachments/assets/43ac596d-bfb4-4296-8ae8-c7bb4c974d72" />
-<img width="346" height="493" alt="image" src="https://github.com/user-attachments/assets/f636d850-030e-4259-9b9f-0893851e29c8" />
+<img width="1906" height="947" alt="image" src="https://github.com/user-attachments/assets/5c90ee47-e0a7-4c18-b8d9-b9ddb068bedb" />
+<img width="344" height="487" alt="image" src="https://github.com/user-attachments/assets/0216ca9b-b2c3-49d3-8b36-9b5484fc5d0b" />
+<img width="345" height="492" alt="image" src="https://github.com/user-attachments/assets/70fd97c6-46cb-41bc-b11f-75b991d403b7" />
+<img width="341" height="492" alt="image" src="https://github.com/user-attachments/assets/bb25661b-4753-42fb-a151-ed8ea9e82b4d" />
+
 
 The application responds similarly for other categories of laptops as well.
 
