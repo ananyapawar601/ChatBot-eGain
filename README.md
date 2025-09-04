@@ -4,7 +4,7 @@
 This project is a **prototype chatbot** for helping customers choose the **right laptop** based on their needs: **Browsing, Gaming, or Business**.  
 
 ### 🔹 Features
-- Guided **button-driven conversation flow** (Dyson-style chatbot)  
+- Guided **button-driven conversation flow**  
 - **3 laptops per category** with customized descriptions  
 - Direct **Amazon purchase links** (opens in new tab)  
 - **Back navigation** at every step  
